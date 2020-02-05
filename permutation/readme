@@ -1,0 +1,9 @@
+Since we will be taking command line arguments 
+So for windows the following steps need to be followed:-
+      1 enter the directory where the executable.py file and input.csv files are present
+      2 now write the following command on the prompt "python executable.py input.csv"
+For linux only difference will come in second step where we will have to 
+  first write chmod +777 executable.py
+  ./executable.py input.csv
+  OR 
+  we could simply write "python executable.py input.csv"
